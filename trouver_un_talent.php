@@ -1,0 +1,24 @@
+<?php require 'inc/header.php' ?>
+    <section class="container">
+        <section class="block1"><section class="titre"><i class="fa fa-plus" aria-hidden="true"></i>
+            <h1>Trouver un talent</h1>
+        </section>
+        <img id="trouver-talent" src="img/logo.png"></section><hr>
+        <section class="block2">
+            <article class="article1">Dans un environnement mouvant et soumis à une règlementation accrue (Bâle III et Bale IV à venir, loi Hamon sur la mobilité bancaire) et à une nouvelle concurrence en provenance des « Fintechs ».<br/> Aujourd’hui, les banques font face à des clients de plus en plus connectés, les clients attendent une expérience client unique et multi-canale. Le digital est au cœur de la Relation Client.<br/> Ainsi, les banques doivent faire face à ces nouveaux défis et fidéliser leur client. Comment ?<br/> En s’entourant de collaborateurs performants, formés et s'adaptant à la demande du client tout en atteignant ses objectifs.<br/> Alardine propose d’accompagner les banques à relever ces nouveaux défis en les connectant avec les meilleurs profils formés et coachés.<br/> Les nouveaux défis de et des clients de plus en plus connectés et, les banques recrutent essentiellement des profils commerciaux.</article>
+        <section class="sous-block2">
+            <article class="article2">N'hésitez pas à nous contacter! Appelez-nous dès aujourd'hui pour toutes informations complémentaires.
+        </article>
+        <div>
+            <p>Contactez nous pour recevoir votre accès à la CVthèque Ne manquez aucune opportuité</p>
+            <form>
+                <input id="email" type="email" value="" placeholder="@">
+                <button id="abonnement" type="submit">s'abonner</button>
+            </form>
+        </div>
+            </section>
+        
+        </section>
+        
+    </section>
+    <?php require 'inc/footer.php' ?>
