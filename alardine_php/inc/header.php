@@ -47,7 +47,7 @@
                         <a href="#">Candidat</a>
                         <ul id="sous-menu2" class="sous-menu">
                             <li>
-                                <a href="#">Se former</a>
+                                <a href="se_former.php">Se former</a>
                             </li>
                             <li>
                                 <a href="#">Espace Apprenants</a>
