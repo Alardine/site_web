@@ -8,7 +8,11 @@ h1 {
 }
 
 
-
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 
 #logo_alardine {
     width: 150px;
@@ -209,8 +213,15 @@ body {
 #equipe i {
     font-size: 30px;
 }
+/***********************************************************************/
 
-
+#fiche_metier{
+    text-align: center;
+    font-family: 'Caudex', serif;
+}
+#fiche_metier a{
+    margin: 5px;
+}
 /************************slider***************************/
 
 #slider h2 {

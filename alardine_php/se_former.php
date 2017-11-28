@@ -1,20 +1,9 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>alardine</title>
-    <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="">
-    <link rel="stylesheet" type="text/css" href="../css/style.css">
-</head>
-
-<body>
+<?php require "inc/header.php"; ?>
     <div>
         <h2>Se former à son future métier</h2>
         <p>exercer dans le secteur banquaire</p>
     </div>
-    <section id="amf">
+    <section id="amf" class="row">
         <article>
             <h3>
                 La certification professionnelle <abbr title="Autorité des Marchés Financiers">AMF*</abbr>
@@ -51,18 +40,14 @@
                 AMF* : Autorité des Marchés Financiers
             </p>
         </article>
-        <article>
+        <aside>
             <h3>Partenariat entre Formaposte et Alardine</h3>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/DrmHz9jN6jk?rel=0&amp;showinfo=0;autoplay=1" frameborder="0" allowfullscreen></iframe>
             <p>
                 Il est temps de trouver votre voie. Nous sommes là pour vous aider !
             </p>
             <button type="submit" name="amf">Recevoir la documentation - certification AMF</button>
-        </article>
+        </aside>
     </section>
-    <section>
-        <?php include "fiche_metier.php" ?>
-    </section>
-</body>
-
-</html>
+    <?php include "fiche_metier.php"; ?>
+    <?php require "inc/footer.php"; ?>

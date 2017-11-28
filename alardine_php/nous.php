@@ -83,17 +83,17 @@
     <div class="slider">
 			<div id="slider">
 				<div>
-					<article>
+					<article id="slide1" class="slide">
                     <iframe width="800" height="500" src="https://www.youtube.com/embed/_wtWou84vNo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 					</article>
 				</div> 
 				<div>
-					<article>
+					<article class="slide">
                     <iframe width="800" height="500" src="https://www.youtube.com/embed/T04ZZIWpEVg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 					</article>
 				</div>
 				<div>
-					<article>
+					<article class="slide">
 					<iframe width="800" height="500" src="https://www.youtube.com/embed/1Jayv9uVWFI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>	
 					</article>
 				</div>
