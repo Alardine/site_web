@@ -1,14 +1,4 @@
-<html lang="fr">
-
-<head>
-    <title></title>
-    <meta name="" content="">
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link href="css/trouverUnTalent.css" type="text/css" rel="stylesheet">
-</head>
-
-<body>
+<?php require "inc/header.php"?>
     <section class="container">
         <section class="block1">
             <section class="titre">
@@ -40,7 +30,5 @@
         </section>
 
     </section>
-    <script src="js/trouverUnTalent.js"></script>
-</body>
 
-</html>
+<?php require "inc/footer.php" ?>
