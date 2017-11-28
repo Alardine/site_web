@@ -268,7 +268,6 @@ abbr{
     padding-top: 10px;
 }
 
-
 .modal {
     background: #7ecfec;
     border-radius: 5px;
@@ -278,7 +277,7 @@ abbr{
     right: 20%;
     top: 150px;
     width: 60%;
-    height: 460px;
+    height: 800px;
     z-index: 1000;
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -293,7 +292,15 @@ abbr{
     display: flex;
     justify-content: space-between;
 }
-
+.body-modal iframe{
+    margin: 0 auto;
+    width: 100%;
+ }
+ .body-modal section a{
+     display: block;
+     text-align: center;
+     color: #fff;  
+ }
 .header-modal h2 {
     margin-top: 0px;
     font-family: 'Josefin Sans', sans-serif;

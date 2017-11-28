@@ -124,6 +124,10 @@
 
                     <button type="submit" name="envoi" id="modalBtn">Envoyer</button>
                 </form>
+                <section>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.5462691962543!2d2.515932315735679!3d48.866861979288274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6126ec978bd47%3A0x3f593d305e723bf8!2sAlardine+Formation+%26+Recrutement!5e0!3m2!1sfr!2sfr!4v1511880494238" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <a href="tel:+33149449916"><i class="fa fa-phone-square" aria-hidden="true"></i>01 49 44 99 16 </a> 
+            </section>
             </div>
         </div>
         <div id="logmodal" class="modal">
