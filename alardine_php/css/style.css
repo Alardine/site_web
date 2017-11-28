@@ -286,6 +286,10 @@ abbr{
     font-size: 14px;
     padding-top: 5px;
 }
+.body-modal{
+    display: flex;
+    justify-content: space-around;
+}
 
 .header-modal {
     border-bottom: 1px solid #fff;
@@ -301,6 +305,9 @@ abbr{
      text-align: center;
      color: #fff;  
  }
+ .body-modal section i{
+    font-size: 30px;  
+}
 .header-modal h2 {
     margin-top: 0px;
     font-family: 'Josefin Sans', sans-serif;
