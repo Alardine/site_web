@@ -209,8 +209,15 @@ body {
 #equipe i {
     font-size: 30px;
 }
+/***********************************************************************/
 
-
+#fiche_metier{
+    text-align: center;
+    font-family: 'Caudex', serif;
+}
+#fiche_metier a{
+    margin: 5px;
+}
 /************************slider***************************/
 
 #slider h2 {
