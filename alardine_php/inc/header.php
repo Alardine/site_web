@@ -23,48 +23,18 @@
     <header>
         <div id="logo-button">
             <div>
-                <a href="index.php"><img id="logo_alardine" src="img/logo2.png" alt="alardine_logo"></a>
+                <a href="index.php">
+                <img id="logo_alardine" src="img/alardin3d.gif" alt="alardine_logo"></a>
             </div>
             <nav id="navigation">
                 <ul>
                     <li id="menu1" class="menu">
                         <a href="nous.php">Qui Sommmes Nous ?</a>
-                        <ul id="sous-menu1" class="sous-menu">
-                            <li>
-                                <a href="nous.php#v">Notre Vision</a>
-                            </li>
-                            <li>
-                                <a href="nous.php#e">Notre Équipe</a>
-                            </li>
-                            <li>
-                                <a href="nous.php#t">Témoignages</a>
-                            </li>
-                        </ul>
                     </li>
                 </ul>
                 <ul>
                     <li id="menu2" class="menu">
-                        <a href="#">Candidat</a>
-                        <ul id="sous-menu2" class="sous-menu">
-                            <li>
-                                <a href="#">Se former</a>
-                            </li>
-                            <li>
-                                <a href="#">Espace Apprenants</a>
-                            </li>
-                            <li>
-                                <a href="#">Ressources formation <abbr title="Autorité des Marchés Financiers">AMF</abbr></a>
-                            </li>
-                            <li>
-                                <a href="#">Accompagnement vers un retour à l'emploi</a>
-                            </li>
-                            <li>
-                                <a href="#">Classes virtuelles enregistrées</a>
-                            </li>
-                            <li>
-                                <a href="#">Envoyer mon cv à jour</a>
-                            </li>
-                        </ul>
+                        <a href="#" id="co">Candidat</a>
                     </li>
                 </ul>
                 <ul>
@@ -80,11 +50,6 @@
                 <ul>
                     <li id="menu4" class="menu">
                         <a href="#" id="addModal">Contacter-nous</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li id="menu4" class="menu">
-                        <a href="#" id="co">Connexion</a>
                     </li>
                 </ul>
             </nav> 
@@ -105,7 +70,7 @@
 
         <div id="modal" class="modal">
             <div class="header-modal">
-                <h2>Contact</h2>
+                <h2>Contacter nous</h2>
                 <div class="close-modal">
                     <i class="fa fa-window-close" aria-hidden="true"></i>
                 </div>
@@ -124,9 +89,10 @@
 
                     <button type="submit" name="envoi" id="modalBtn">Envoyer</button>
                 </form>
-            <section>
+                <section>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.5462691962543!2d2.515932315735679!3d48.866861979288274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6126ec978bd47%3A0x3f593d305e723bf8!2sAlardine+Formation+%26+Recrutement!5e0!3m2!1sfr!2sfr!4v1511880494238" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-                <a href="tel:+33149449916"><i class="fa fa-phone-square" aria-hidden="true"></i>01 49 44 99 16 </a> 
+                <p>87 - 95  rue  Louis Ampère<br>93330, Neuilly sur Marne, France</p>
+                <a href="tel:+33149449916"><i class="fa fa-phone-square" aria-hidden="true"></i> 01 49 44 99 16 </a> 
             </section>
             </div>
         </div>

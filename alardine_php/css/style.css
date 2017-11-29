@@ -1,3 +1,4 @@
+/*****************************************CSS COMUN***************************************/
 * {
     box-sizing: border-box;
     transition: all 0.3s ease 0;
@@ -6,12 +7,12 @@
 h1 {
     font-family: 'Roboto Slab', serif;
 }
-
-
-
-
+body {
+    position: relative;
+}
+/*************************************HEADER**********************************************/
 #logo_alardine {
-    width: 150px;
+    width: 200px;
     height: 150px;
 }
 
@@ -38,9 +39,6 @@ h1 {
     flex: 1;
 }
 
-#menu2{
-    width: 200px;
-}
 #logo-button li a {
     text-decoration: none;
     color: #000;
@@ -68,42 +66,9 @@ h1 {
     font-size: 25px;
 }
 
-.slider {
-    height: 500px;
-    width: 800px;
-    margin: 0 auto;
-    overflow: hidden;
-}
-
-.slide {
-    height: 500px;
-    width: 800px;
-    margin: 0;
-    padding: 0;
-    border: 0 solid;
-    position: absolute;
-	transition: all 2s ease 0s;
-    left: 800px;
-    visibility: hidden;
-}
-
-#slider {
-    display: flex;
-    position: relative;
-    left: 0;
-}
-
-#slide1{
-    left: 0;
-    visibility: visible;
-}
 
 
-/*****************************************************************/
-
-body {
-    position: relative;
-}
+/*************************************INDEX**********************************************/
 
 #digit {
    /* background-image: url('../img/work.jpeg');
@@ -156,7 +121,7 @@ body {
 }
 
 
-/***********************************************************/
+/********************************QUI_SOMMES-NOUS********************************/
 
 #nous cite {
     display: block;
@@ -209,22 +174,44 @@ body {
 #equipe i {
     font-size: 30px;
 }
-/***********************************************************************/
 
-#fiche_metier{
-    text-align: center;
-    font-family: 'Caudex', serif;
-}
-#fiche_metier a{
-    margin: 5px;
-}
-/************************slider***************************/
+
+/************************************SLIDER***************************/
 
 #slider h2 {
     text-align: center;
 }
 abbr{
     text-decoration: none;
+}
+.slider {
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.slide {
+    height: 500px;
+    width: 800px;
+    margin: 0;
+    padding: 0;
+    border: 0 solid;
+    position: absolute;
+	transition: all 2s ease 0s;
+    left: 800px;
+    visibility: hidden;
+}
+
+#slider {
+    display: flex;
+    position: relative;
+    left: 0;
+}
+
+#slide1{
+    left: 0;
+    visibility: visible;
 }
 
 .job {
@@ -270,15 +257,16 @@ abbr{
 }
 
 
-/************************MODAL***************************/
+/*********************************MODAL*****************************************/
 
-label {
+.modal label {
     display: block;
     margin: 0;
     padding-top: 10px;
 }
-
-
+#modal form{
+    width: 50%;
+}
 .modal {
     background: #7ecfec;
     border-radius: 5px;
@@ -288,7 +276,7 @@ label {
     right: 20%;
     top: 150px;
     width: 60%;
-    height: 800px;
+    height: 500px;
     z-index: 1000;
     font-family: 'Josefin Sans', sans-serif;
 }
@@ -297,21 +285,28 @@ label {
     font-size: 14px;
     padding-top: 5px;
 }
-.body-modal iframe{
-   margin: 0 auto;
-   width: 100%;
+.body-modal{
+    display: flex;
+    justify-content: space-around;
 }
-.body-modal section a{
-    display: block;
-    text-align: center;
-    color: #fff;  
-}
+
 .header-modal {
     border-bottom: 1px solid #fff;
     display: flex;
     justify-content: space-between;
 }
-
+.body-modal iframe{
+    margin: 0 auto;
+    width: 100%;
+ }
+ .body-modal section a{
+     display: block;
+     text-align: center;
+     color: #fff;  
+ }
+ .body-modal section i{
+    font-size: 30px;  
+}
 .header-modal h2 {
     margin-top: 0px;
     font-family: 'Josefin Sans', sans-serif;
@@ -353,7 +348,7 @@ label {
 }
 
 
-/*************** Footer *******************/
+/****************************** Footer **********************************/
 
 #relation {
     display: flex;
@@ -406,7 +401,7 @@ footer {
     color: white;
 }
 
-/************************PC***************************/
+/*********************************PC******************************/
 
 @media screen and (min-width:768px) {
     #digit h2 {
@@ -418,5 +413,5 @@ footer {
     #since p {
         font-size: 30px;
     }
-    /********************************************/
+    /***************************************************************/
 }
