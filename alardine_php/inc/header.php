@@ -69,7 +69,7 @@
 
         <div id="modal" class="modal">
             <div class="header-modal">
-                <h2>Contacter nous</h2>
+                <h2>contact@alardine.fr</h2>
                 <div class="close-modal">
                     <i class="fa fa-window-close" aria-hidden="true"></i>
                 </div>
@@ -91,7 +91,7 @@
                 <section>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.5462691962543!2d2.515932315735679!3d48.866861979288274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6126ec978bd47%3A0x3f593d305e723bf8!2sAlardine+Formation+%26+Recrutement!5e0!3m2!1sfr!2sfr!4v1511880494238" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 <p>87 - 95  rue  Louis Ampère<br>93330, Neuilly sur Marne, France</p>
-                <a href="tel:+33149449916"><i class="fa fa-phone-square" aria-hidden="true"></i> 01 49 44 99 16 </a> 
+                <a href="tel:+33149449916"><i class="fa fa-phone-square" aria-hidden="true"></i>  01 49 44 99 16 </a> 
             </section>
             </div>
         </div>

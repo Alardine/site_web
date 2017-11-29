@@ -62,7 +62,7 @@ body {
     font-size: 18px;
 }
 
-#lien a {
+#lien a{
     font-size: 25px;
 }
 
@@ -304,8 +304,9 @@ abbr{
      text-align: center;
      color: #fff;  
  }
- .body-modal section i{
-    font-size: 30px;  
+.body-modal section i, .body-modal section p{
+    text-align: center;
+    color: #fff; 
 }
 .header-modal h2 {
     margin-top: 0px;
