@@ -124,7 +124,7 @@ body {
 }
 
 
-/********************************CONTACTER-NOUS********************************/
+/********************************QUI_SOMMES-NOUS********************************/
 
 #nous cite {
     display: block;
@@ -267,7 +267,9 @@ abbr{
     margin: 0;
     padding-top: 10px;
 }
-
+.modal form{
+    width: 50%;
+}
 .modal {
     background: #7ecfec;
     border-radius: 5px;
@@ -277,7 +279,7 @@ abbr{
     right: 20%;
     top: 150px;
     width: 60%;
-    height: 800px;
+    height: 500px;
     z-index: 1000;
     font-family: 'Josefin Sans', sans-serif;
 }

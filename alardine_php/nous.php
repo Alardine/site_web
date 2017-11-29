@@ -3,7 +3,24 @@
 <section id="nous">
     <section id="vision">
         <h2 id="v">Notre vision</h2>
-
+        <h3>Le digital et la réglementation au cœur de la relation client</h3>
+       <p>
+Aujourd’hui, les Banques doivent faire face et s’adapter à un nouvel environnement numérique et réglementaire.</p>
+       <p>
+L’ère numérique impacte tous les secteurs d’activité en particulier la Banque : la Relation Client doit s’adapter à ces changements. En effet, le comportement des clients a profondément évolué, le client est devenu de plus en plus expert dans l’utilisation des nouvelles technologies et exige une continuité des services offerts par les entreprises en consultant les sites mobiles (smartphones, applications mobiles).</p>
+       <p>La numérisation, l’« ubérisation » de l’économie a fait naître aussi de nouveaux concurrents pour les Banques, les « Fintechs ».
+  De plus, les banques doivent intégrer l’aspect règlementaire dans la relation Client, avec l’obligation des conseillers clientèles Banques d’avoir un minimum de connaissances sur la règlementation, la déontologie et les aspects techniques*.</p>
+       <p>Ainsi, le commercial de la Banque d’aujourd’hui doit répondre à plusieurs critères: connaitre la règlementation en matière de distributions des produits/services financiers, posséder des qualités et compétences commerciales et maitriser les outils digitaux
+ Face à ces nouveaux défis, les équipes d’Alardine s’attachent à déceler les talents, les potentiels répondant aux exigences du métier de conseiller Banque d’aujourd’hui grâce à une méthodologie éprouvée.</p>
+  <small>
+*Depuis Juillet 2010, les conseillers bancaires/financiers doivent disposer de la certification professionnelle AMF  pour être habiliter à commercialiser des produits et services financiers</small>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rfZCfUHiM84?rel=0&amp;showinfo=0;autoplay=1" frameborder="0" allowfullscreen></iframe>
+        <blockquote>
+            <p>«La diversité est au cœur même de notre capacité à servir nos clients et à maximiser le rendement pour nos actionnaires.
+            Diversité soutient et renforce la culture de l’entreprise, et cela renforce notre réputation en tant qu’employeur
+            de choix dans notre secteur et au-delà ».</p>
+            <cite>Lloyd C. Blankfein, Président du conseil et chef de la direction The Goldman Sachs Group, Inc</cite>
+        </blockquote>
         <blockquote>
             <p>Après avoir passé 10 années dans la Finance, je décide en 2009 de me tourner vers le métier de l’enseignement.
                 Professeur d’Economie/Gestion dans les lycées en Seine Saint Denis, je me suis souvent retrouvé face à des
@@ -12,13 +29,6 @@
                 <strong>Alardine</strong> (A la Recherche de Nouvelles Energies) afin de donner les moyens, la passerelle aux candidats
                 motivés d’intégrer le secteur de la Banque et aussi permettre aux Banques d’accéder à de nouvelles énergies.</p>
             <cite>Rachid Belabbas, Président</cite>
-        </blockquote>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/rfZCfUHiM84?rel=0&amp;showinfo=0;autoplay=1" frameborder="0" allowfullscreen></iframe>
-        <blockquote>
-            <p>«La diversité est au cœur même de notre capacité à servir nos clients et à maximiser le rendement pour nos actionnaires.
-            Diversité soutient et renforce la culture de l’entreprise, et cela renforce notre réputation en tant qu’employeur
-            de choix dans notre secteur et au-delà ».</p>
-            <cite>Lloyd C. Blankfein, Président du conseil et chef de la direction The Goldman Sachs Group, Inc</cite>
         </blockquote>
     </section>
     <h2 id="e">Notre équipe</h2>
