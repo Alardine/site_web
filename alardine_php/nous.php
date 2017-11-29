@@ -15,9 +15,9 @@
         </blockquote>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/rfZCfUHiM84?rel=0&amp;showinfo=0;autoplay=1" frameborder="0" allowfullscreen></iframe>
         <blockquote>
-            «La diversité est au cœur même de notre capacité à servir nos clients et à maximiser le rendement pour nos actionnaires.
+            <p>«La diversité est au cœur même de notre capacité à servir nos clients et à maximiser le rendement pour nos actionnaires.
             Diversité soutient et renforce la culture de l’entreprise, et cela renforce notre réputation en tant qu’employeur
-            de choix dans notre secteur et au-delà ».
+            de choix dans notre secteur et au-delà ».</p>
             <cite>Lloyd C. Blankfein, Président du conseil et chef de la direction The Goldman Sachs Group, Inc</cite>
         </blockquote>
     </section>
