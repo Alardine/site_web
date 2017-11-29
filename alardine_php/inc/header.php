@@ -57,7 +57,6 @@
 <!-- lien   -->
 
         <section id="lien">
-    <p>Retrouvez-nous</p>
         <a href="https://www.facebook.com/Alardine.recrutement.formation/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
         <a href="https://twitter.com/alardine" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
         <a href="https://www.linkedin.com/company/alardine?" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
