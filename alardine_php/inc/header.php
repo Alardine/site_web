@@ -23,48 +23,18 @@
     <header>
         <div id="logo-button">
             <div>
-                <a href="index.php"><img id="logo_alardine" src="img/logo2.png" alt="alardine_logo"></a>
+                <a href="index.php">
+                <img id="logo_alardine" src="img/alardin3d.gif" alt="alardine_logo"></a>
             </div>
             <nav id="navigation">
                 <ul>
                     <li id="menu1" class="menu">
                         <a href="nous.php">Qui Sommmes Nous ?</a>
-                        <ul id="sous-menu1" class="sous-menu">
-                            <li>
-                                <a href="nous.php#v">Notre Vision</a>
-                            </li>
-                            <li>
-                                <a href="nous.php#e">Notre Équipe</a>
-                            </li>
-                            <li>
-                                <a href="nous.php#t">Témoignages</a>
-                            </li>
-                        </ul>
                     </li>
                 </ul>
                 <ul>
                     <li id="menu2" class="menu">
-                        <a href="#">Candidat</a>
-                        <ul id="sous-menu2" class="sous-menu">
-                            <li>
-                                <a href="se_former.php">Se former</a>
-                            </li>
-                            <li>
-                                <a href="#">Espace Apprenants</a>
-                            </li>
-                            <li>
-                                <a href="#">Ressources formation <abbr title="Autorité des Marchés Financiers">AMF</abbr></a>
-                            </li>
-                            <li>
-                                <a href="#">Accompagnement vers un retour à l'emploi</a>
-                            </li>
-                            <li>
-                                <a href="#">Classes virtuelles enregistrées</a>
-                            </li>
-                            <li>
-                                <a href="#">Envoyer mon cv à jour</a>
-                            </li>
-                        </ul>
+                        <a href="#" id="co">Candidat</a>
                     </li>
                 </ul>
                 <ul>
@@ -80,11 +50,6 @@
                 <ul>
                     <li id="menu4" class="menu">
                         <a href="#" id="addModal">Contacter-nous</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li id="menu4" class="menu">
-                        <a href="#" id="co">Connexion</a>
                     </li>
                 </ul>
             </nav> 
