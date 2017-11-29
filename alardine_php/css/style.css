@@ -62,10 +62,13 @@ body {
     font-size: 18px;
 }
 
-#lien a {
+#lien a{
     font-size: 25px;
 }
 
+#lien {
+    margin-top: 45px;
+}
 
 
 /*************************************INDEX**********************************************/
@@ -76,6 +79,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgba(255, 255, 255, 0.199);*/
+    background-color: rgb(80, 138, 245);
     margin: 0 auto;
     width: 100%;
     height: 500px;
@@ -304,11 +308,13 @@ abbr{
      text-align: center;
      color: #fff;  
  }
- .body-modal section i{
-    font-size: 30px;  
+.body-modal section i, .body-modal section p{
+    text-align: center;
+    color: #fff; 
 }
 .header-modal h2 {
     margin-top: 0px;
+    margin-left: 125px;
     font-family: 'Josefin Sans', sans-serif;
 }
 
