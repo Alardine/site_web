@@ -19,7 +19,7 @@
         </section>-->
         <section>
             <h3>Nos certifications et labels</h3>
-            <figure id="certificat">
+            <figure id="certificat" class="row">
                 <div>
                     <img class="logo" src="img/afaq.png">
                     <figcaption>
@@ -50,16 +50,16 @@
                 </div>
             </figure>
         </section>
-        <section id="copyright">
+        <section id="copyright" class="row">
             <p class="copyright">
-                © 2017&nbsp;ALARDINE
+                <a class="auto-generated-link" data-auto-recognition="true" data-content="Contact@alardine.fr" href="mailto:Contact@alardine.fr" data-type="mail">
+                    Contact@alardine.fr</a>&nbsp;  | &nbsp;  87-95 rue Louis Ampère Neuilly-sur-Marne
             </p>
             <div tabindex="0" title="Facebook Like" aria-label="Facebook Like" class="fbl1 copyright" id="comp-iykjpw0p">
                 <div id="comp-iykjpw0pfacebook" class="fbl1facebook"><iframe frameborder="0" width="290" height="40" scrolling="no" overflow="hidden" allowtransparency="true" title="Facebook Like" aria-label="Facebook Like" id="comp-iykjpw0piframe" class="fbl1iframe" src="https://www.facebook.com/plugins/like.php?a=a&amp;action=recommend&amp;colorscheme=light&amp;href=http%3A%2F%2Fwww.alardine.fr&amp;layout=standard&amp;locale=fr_FR&amp;send=false&amp;show_faces=false" style="width: 290px; height: 40px;"></iframe></div>
             </div>
             <p class="copyright">
-                <a class="auto-generated-link" data-auto-recognition="true" data-content="Contact@alardine.fr" href="mailto:Contact@alardine.fr" data-type="mail">
-                    Contact@alardine.fr</a>&nbsp;  | &nbsp;  87-95 rue Louis Ampère Neuilly-sur-Marne
+                © 2017&nbsp;ALARDINE
             </p>
         </section>
     </footer>

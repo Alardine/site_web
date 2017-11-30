@@ -21,11 +21,11 @@
 <body>
     <div class="backG"></div>
     <header>
-        <div id="logo-button">
+        <div id="logo-button" class="row">
             <div>
                 <a href="index.php"><img id="logo_alardine" src="img/logo2.png" alt="alardine_logo"></a>
             </div>
-            <nav id="navigation">
+            <nav id="navigation" class="row">
                 <ul>
                     <li id="menu1" class="menu">
                         <a href="nous.php">Qui Sommmes Nous ?</a>
