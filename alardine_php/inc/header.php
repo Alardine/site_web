@@ -24,7 +24,7 @@
         <div id="logo-button">
             <div>
                 <a href="index.php">
-                <img id="logo_alardine" src="img/alardin3d.gif" alt="alardine_logo"></a>
+                <img id="logo_alardine" src="img/alardin3d_spin2.gif" alt="alardine_logo"></a>
             </div>
             <nav id="navigation">
                 <ul>
@@ -112,8 +112,8 @@
                             <a href="forget.php">(mot de passe oublié)</a>   
                         </label>
                         <label class="checkbox-inline"><input type="checkbox" name="remember" value="1">Se souvenir de moi</label>
-                    <button type="submit" class="btn btn-primary">Se connecter</button>
-                    <button type="" class="btn btn-primary">S'inscrire</button>
+                    <button type="submit" formaction="co/login.php" class="btn btn-primary">Se connecter</button>
+                    <button type="" formaction="co/register.php" class="btn btn-primary">S'inscrire</button>
                 </form>
             </div>
         </div>

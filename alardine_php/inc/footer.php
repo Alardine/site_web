@@ -17,7 +17,7 @@
                 </div>
             </figure>
         </section>-->
-        <section>
+       <section>
             <h3>Nos certifications et labels</h3>
             <figure id="certificat">
                 <div>
@@ -36,12 +36,12 @@
                     <figcaption>
                         L’ICPF &amp; PSI atteste que notre formateur confirmé satisfait aux exigences requises de la formation reconnu par le CNEFOP </figcaption>
                 </div>
-                <!--<div>
+                <div>
                     <img class="logo" src="img/chartediversite.png">
                     <figcaption>
                         Nous sommes signataire de la charte de la diversité
                     </figcaption>
-                </div>-->
+                </div>
                 <div>
                     <img class="logo" id="datadock" src="img/datadock.png">
                     <figcaption>
@@ -50,6 +50,7 @@
                 </div>
             </figure>
         </section>
+        
         <section id="copyright">
             <p class="copyright">
                 © 2017&nbsp;ALARDINE
