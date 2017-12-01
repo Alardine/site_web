@@ -3,7 +3,7 @@ require_once 'inc/function.php';
 reconnect_from_cookie();
 
 if(isset($_SESSION['auth'])){
-    header('Location: ../index.php');
+    header('Location: account.php');
     exit();
 }
 if(!empty($_POST) && !empty($_POST['username']) && !empty($_POST['password'])){
